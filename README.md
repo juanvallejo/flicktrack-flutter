@@ -1,6 +1,6 @@
 # flicktrack
 
-A new Flutter project.
+Re-implementation of the Flicktrack frontend in Flutter.
 
 ## Getting Started
 
